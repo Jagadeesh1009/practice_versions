@@ -11,6 +11,7 @@ int main() {
     a = a - b; // a becomes 10 (15 - 5)  -> original value of b
 
     printf("After swapping22: a = %d, b = %d\n", a, b);
+    // Version 3: Practicing Git version control
 
     return 0;
 }
