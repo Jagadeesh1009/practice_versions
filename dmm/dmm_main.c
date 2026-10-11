@@ -1,4 +1,4 @@
-#include <stdio.h>
+
 
 int main() {
     int a = 5, b = 10;
@@ -10,7 +10,7 @@ int main() {
     b = a - b; // b becomes 5  (15 - 10) -> original value of a
     a = a - b; // a becomes 10 (15 - 5)  -> original value of b
 
-    printf("After swapping: a = %d, b = %d\n", a, b);
+    printf("After swapping22: a = %d, b = %d\n", a, b);
 
     return 0;
 }
